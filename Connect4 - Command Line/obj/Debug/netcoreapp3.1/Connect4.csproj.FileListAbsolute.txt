@@ -1,0 +1,13 @@
+D:\TommaLlama\Documents\Programming\C#\Connect4\bin\Debug\netcoreapp3.1\Connect4.exe
+D:\TommaLlama\Documents\Programming\C#\Connect4\bin\Debug\netcoreapp3.1\Connect4.deps.json
+D:\TommaLlama\Documents\Programming\C#\Connect4\bin\Debug\netcoreapp3.1\Connect4.runtimeconfig.json
+D:\TommaLlama\Documents\Programming\C#\Connect4\bin\Debug\netcoreapp3.1\Connect4.runtimeconfig.dev.json
+D:\TommaLlama\Documents\Programming\C#\Connect4\bin\Debug\netcoreapp3.1\Connect4.dll
+D:\TommaLlama\Documents\Programming\C#\Connect4\bin\Debug\netcoreapp3.1\Connect4.pdb
+D:\TommaLlama\Documents\Programming\C#\Connect4\obj\Debug\netcoreapp3.1\Connect4.csprojAssemblyReference.cache
+D:\TommaLlama\Documents\Programming\C#\Connect4\obj\Debug\netcoreapp3.1\Connect4.AssemblyInfoInputs.cache
+D:\TommaLlama\Documents\Programming\C#\Connect4\obj\Debug\netcoreapp3.1\Connect4.AssemblyInfo.cs
+D:\TommaLlama\Documents\Programming\C#\Connect4\obj\Debug\netcoreapp3.1\Connect4.csproj.CoreCompileInputs.cache
+D:\TommaLlama\Documents\Programming\C#\Connect4\obj\Debug\netcoreapp3.1\Connect4.dll
+D:\TommaLlama\Documents\Programming\C#\Connect4\obj\Debug\netcoreapp3.1\Connect4.pdb
+D:\TommaLlama\Documents\Programming\C#\Connect4\obj\Debug\netcoreapp3.1\Connect4.genruntimeconfig.cache
